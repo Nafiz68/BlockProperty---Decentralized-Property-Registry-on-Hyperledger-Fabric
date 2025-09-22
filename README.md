@@ -4,12 +4,6 @@
 
 **BlockProperty - Decentralized Property Registry on Hyperledger Fabric**
 
-## Repository Name Suggestion
-
-`blockproperty-fabric`
-
----
-
 # BlockProperty - Decentralized Property Registry on Hyperledger Fabric
 
 A secure, transparent, and immutable property management system built on Hyperledger Fabric blockchain technology. This application provides a decentralized platform for registering, tracking, and managing real estate properties with complete audit trails and tamper-proof records.
@@ -260,6 +254,9 @@ For questions, issues, or contributions, please:
 - **Original Fabcar Sample** for the foundation code
 
 ---
+## Helper Repository
+
+[Hyperledger Fabric Fabcar Repository](https://github.com/YEASIN49/Hyperledger-Fabric-Fabcar.git)
 
 **Built with ❤️ using Hyperledger Fabric**
 
